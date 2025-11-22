@@ -1,13 +1,32 @@
 {
   "project_info": {
-    "project_number": "607737233763",
-    "project_id": "lchang-firebase-2025",
-    "storage_bucket": "lchang-firebase-2025.firebasestorage.app"
+    "project_number": "678288290975",
+    "project_id": "fravely-firebase-2025",
+    "storage_bucket": "fravely-firebase-2025.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:607737233763:android:cbb46fb1ecaf102157d356",
+        "mobilesdk_app_id": "1:678288290975:android:630f507d031e534aefdeaa",
+        "android_client_info": {
+          "package_name": "com.example.pc02moviles22200220_22200136"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB69jbj1djDM_m33pJaD7eMDzsgmfTidXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678288290975:android:46dab64a0372be5cefdeaa",
         "android_client_info": {
           "package_name": "dev.lchang.appue"
         }
@@ -15,7 +34,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAvKlbMJuwyNtGPGepMDT4ki0T16qqjQVY"
+          "current_key": "AIzaSyB69jbj1djDM_m33pJaD7eMDzsgmfTidXs"
         }
       ],
       "services": {
